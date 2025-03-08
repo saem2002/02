@@ -1,0 +1,16 @@
+main{
+    background-color: orange;
+    font-weight: bold;
+    color:black;
+}
+
+
+.hero{
+    border: 2px solid black  ;
+}
+
+#span{
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+}
